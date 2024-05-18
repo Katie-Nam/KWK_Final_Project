@@ -1,0 +1,408 @@
+.hotline {
+  color: white;
+  background-color:#7EA172;
+  text-align: center;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+.header{
+  color: #7EA172;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 70%;
+  text-align: center;
+  padding-top: 0px;
+  border-bottom: 1px solid rgb(240, 239, 239);
+}
+
+.title {
+  margin: 5px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.quickLink{
+  font-family: 'Raleway', sans-serif;
+  font-size: 63%;
+  padding: 5px 5px 5px 5px;
+  text-decoration: none;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.quickLink:hover {
+  color: rgb(252, 187, 114);
+}
+
+.quotes{
+  font-family: "Apercu Pro", -apple-system, BlinkMacSystemFont, Helvetica, "Helvetica Neue", Arial, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: gainsboro;
+}
+
+.quoteOne {
+  text-align: center;
+  background-color: white;
+  padding: 15px 15px 15px 15px;
+  width: 90%;
+}
+
+.quoteTwo {
+  text-align: center;
+  background-color: white;
+  padding: 15px 15px 15px 15px;
+  width: 90%;
+}
+
+.quoteThree {
+  text-align: center;
+  background-color: white;
+  padding: 15px 15px 15px 15px;
+  width: 90%;
+}
+
+.whatIsTrafficking{
+  font-family: 'Raleway', sans-serif;
+  color: #B6863E
+}
+.background{
+  font-family: 'Raleway', sans-serif;
+}
+
+.mission{
+  font-family: 'Raleway', sans-serif;
+  color: #B6863E
+}
+.ourMission{
+  font-family: 'Raleway', sans-serif;
+}
+.stats{
+  font-family: 'Raleway', sans-serif;
+  color: #B6863E
+}
+.statistics{
+  font-family: 'Raleway', sans-serif;
+}
+
+.percentage {
+  width: 546px;
+  height: 345px;
+  object-fit: contain;
+  border: 3px solid rgb(243, 150, 37);
+}
+.chart {
+  width: 550px;
+  height: 350px;
+}
+
+.mostWanted {
+  background-color: rgb(198, 221, 191);
+}
+
+.mostWantedPeople {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.mostWantedPictures {
+  border-radius: 100%;
+  object-fit:cover;
+  width: 100px;
+  height: 100px;
+}
+
+.mostWanted1 {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.mostWanted2 {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.mostWanted3 {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.mostWanted4 {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.mostWanted5 {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.mostWanted6 {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.mostWanted7 {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.mostWantedPicture1 {
+  border: 4px solid rgba(0, 225, 255, 0.527);
+}
+
+.mostWantedPicture2 {
+  border: 4px solid rgba(0, 161, 182, 0.527);
+}
+
+.mostWantedPicture3 {
+  border: 4px solid rgba(92, 92, 92, 0.527);
+}
+
+.mostWantedPicture4 {
+  border: 4px solid rgba(47, 54, 150, 0.527);
+}
+
+.mostWantedPicture5 {
+  border: 4px solid rgba(61, 61, 61, 0.527);
+}
+
+.mostWantedPicture6 {
+  border: 4px solid rgba(151, 206, 149, 0.527);
+}
+
+.mostWantedPicture7 {
+  border: 4px solid rgba(0, 161, 182, 0.527);
+}
+
+.wanted{
+  font-family: 'Recursive', sans-serif;
+}
+.statsPoints{
+  font-size: 23px;
+}
+
+
+
+
+.backtotopcontainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.backtotop {
+  border-radius: 100%;
+  position: sticky;
+  top: 0;
+  border: 2px solid rgb(252, 187, 114);
+}
+
+.sticky {
+  background-color: white;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  width: 100%
+}
+
+.about-us {
+  background-color:rgb(198, 221, 191);
+}
+
+.bios {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Katie {
+  background-color: white;
+  width: 300px;
+  height: 350px;
+  text-align: center;
+  padding: 20px;
+  margin: 15px;
+}
+.katiePicture {
+  border-radius: 100%;
+  object-fit: cover;
+  width: 100px;
+  height: 100px;
+  border: 4px solid #8AA399;
+}
+.Jannie {
+  background-color: white;
+  width: 300px;
+  height: 350px;
+  text-align: center;
+  padding: 20px;
+  margin: 15px;
+}
+
+.janniePicture {
+  border-radius: 100%;
+  object-fit:cover;
+  width: 100px;
+  height: 100px;
+  border: 4px solid rgba(223, 39, 39, 0.781);
+}
+
+.Zahraa {
+  background-color: white;
+  width: 300px;
+  height: 350px;
+  text-align: center;
+  padding: 20px;
+  margin: 15px;
+}
+
+.resourcesText {
+  font-size: 15px;
+}
+
+.resourcesButtons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.inNeedOfHelp {
+  width: 30%;
+  background-color: transparent;
+  border: 3px solid #7EA172;
+  color: #7EA172;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+  transition: all .5s ease-out;
+}
+
+.inNeedOfHelp:hover {
+  width: 40%;
+}
+
+.wantToHelp {
+  width: 30%;
+  background-color: transparent;
+  border: 3px solid #7EA172;
+  color: #7EA172;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+  transition: all .5s ease-out;
+}
+
+.wantToHelp:hover {
+  width: 40%;
+}
+
+.wantedHeader{
+  font-family: 'Raleway', sans-serif;
+  color: #B6863E;
+}
+.headerTips{
+  font-family: 'Raleway', sans-serif;
+  color: #B6863E
+}
+.headerResources{
+  font-family: 'Raleway', sans-serif;
+  color: #B6863E
+}
+.safetyTips{
+  font-family: 'Raleway', sans-serif;
+}
+.navbar{
+  font-size: 15px;
+}
+
+.resources{
+  font-family: 'Raleway', sans-serif;
+}
+.finalQuote{
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Recursive', sans-serif;
+  font-size: 25px;
+  color: rgb(90, 114, 83);
+}
+
+.organizationLinks {
+  color: #FF7F11;
+}
+
+.organizationLinks:hover {
+  color: #F7B05B;
+}
+
+/* .commonIndicators {
+  text-indent: 15px;
+}
+
+
+.statsPoints{
+  text-indent: 15px;
+} */
+
+.warning {
+  padding: 10px;
+}
+
+h4 {
+  color: #B6863E;
+}
+
+h3 {
+ color: #B6863E;
+}
+
+.aboutUs {
+  font-family: 'Raleway', sans-serif;
+  color: #B6863E;
+}
+
+.mostWantedBios {
+  font-family: 'Raleway', sans-serif;
+}
+
+.aboutUsBios {
+  font-family: 'Raleway', sans-serif;
+}
+
+.quote {
+  font-family: 'Raleway', sans-serif;
+}
